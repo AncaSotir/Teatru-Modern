@@ -1,0 +1,57 @@
+
+SPECTACOLE=====================================================================
+
+nume
+indicator tip (string)
+tip
+_______________________________
+caz teatru:
+~~~~~~~~~~~
+durata
+interactiv (0/1)
+pentru adulti (0/1)
+
+caz opera:
+~~~~~~~~~~
+nume solist
+voce solist
+numar acte
+durate acte
+durata pauza
+pentru adulti (0/1)
+
+caz circ:
+~~~~~~~~~
+numar acte
+acte:
+~~~~~
+durata act
+pentru adulti (0/1)
+indicator animal (0/1)
+animal
+_____________________________
+gen (string) ! pentru circ nu se mai citeste genul pt ca e comedie
+numar prezentari
+prezentari:
+~~~~~~~~~~~
+data (zi,luna,an)
+numar locuri
+
+
+CLIENTI========================================================================
+
+nume
+varsta
+
+da/nu (introducere pofta)
+teatru/opera/circ
+comedie/romanta/tragedie/drama
+nu
+nu
+da/nu (introducere pofte in continuare) +repeta ce e mai sus
+
+da/nu (introducere exigenta)
+da/nu (combinatie)
+tip+gen
+
+

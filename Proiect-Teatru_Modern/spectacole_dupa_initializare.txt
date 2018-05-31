@@ -1,0 +1,198 @@
+
+--------------------------------------------------------
+GLOBUS
+
+Tipul spectacolului: Circ
+
+Genul spectacolului: Comedie
+
+Acest spectacol este pentru adulti.
+
+Numar acte: 3
+	Actul 1:
+		- este pentru adulti
+		- face uz de animale vii (leu)
+		- dureaza 10 minute
+	Actul 2:
+		- dureaza 30 minute
+	Actul 3:
+		- face uz de animale vii (papagal)
+		- dureaza 15 minute
+
+Durata fixa a spectacolului: 55 minute
+
+Spectacolul va rula de 3 ori:
+
+Data prezentarii: 03.05.2018
+Numar locuri: 50
+Pana acum:
+	- 14 locuri rezervate (14 adulti si 0 copii)
+
+Data prezentarii: 10.05.2018
+Numar locuri: 50
+Pana acum:
+	- 0 locuri rezervate (0 adulti si 0 copii)
+
+Data prezentarii: 17.05.2018
+Numar locuri: 50
+Pana acum:
+	- 0 locuri rezervate (0 adulti si 0 copii)
+
+
+--------------------------------------------------------
+ALA BALA
+
+Tipul spectacolului: Teatru interactiv
+Genul spectacolului: Comedie
+
+Numar acte: 1 (50 minute)
+Durata fixa a spectacolului: 50 minute
+
+Spectacolul va rula de 2 ori:
+
+Data prezentarii: 01.06.2018
+Numar locuri: 25
+Pana acum:
+	- 18 locuri rezervate (14 adulti si 4 copii)
+
+Durata aditionala pentru teatru interactiv: 22 minute
+
+Data prezentarii: 02.06.2018
+Numar locuri: 30
+Pana acum:
+	- 0 locuri rezervate (0 adulti si 0 copii)
+
+Durata aditionala pentru teatru interactiv: 0 minute
+
+
+--------------------------------------------------------
+ROMEO SI JULIETA
+
+Tipul spectacolului: Opera
+
+Genul spectacolului: Romanta
+
+Acest spectacol este pentru adulti.
+
+Solist principal: Dan Pop-Mihailescu (Tenor)
+
+Numar acte: 5
+
+	Actul 1: 10 minute
+
+	Actul 2: 25 minute
+
+	Actul 3: 15 minute
+
+	Actul 4: 20 minute
+
+	Actul 5: 10 minute
+
+Pauza intre acte: 5 minute
+Durata fixa a spectacolului: 85 minute
+
+Spectacolul va rula o data:
+
+Data prezentarii: 05.06.2018
+Numar locuri: 35
+Pana acum:
+	- 14 locuri rezervate (14 adulti si 0 copii)
+
+
+--------------------------------------------------------
+ORLANDO
+
+Tipul spectacolului: Circ
+
+Genul spectacolului: Comedie
+
+Numar acte: 5
+	Actul 1:
+		- face uz de animale vii (tigru)
+		- dureaza 10 minute
+	Actul 2:
+		- face uz de animale vii (elefant)
+		- dureaza 5 minute
+	Actul 3:
+		- dureaza 7 minute
+	Actul 4:
+		- face uz de animale vii (pisica)
+		- dureaza 8 minute
+	Actul 5:
+		- dureaza 10 minute
+
+Durata fixa a spectacolului: 40 minute
+
+Spectacolul va rula de 2 ori:
+
+Data prezentarii: 13.05.2018
+Numar locuri: 75
+Pana acum:
+	- 18 locuri rezervate (14 adulti si 4 copii)
+
+Data prezentarii: 15.05.2018
+Numar locuri: 75
+Pana acum:
+	- 0 locuri rezervate (0 adulti si 0 copii)
+
+
+--------------------------------------------------------
+PESCARUSUL
+
+Tipul spectacolului: Opera
+
+Genul spectacolului: Drama
+
+Acest spectacol este pentru adulti.
+
+Solist principal: Mihail Tataru (Bas)
+
+Numar acte: 3
+
+	Actul 1: 15 minute
+
+	Actul 2: 20 minute
+
+	Actul 3: 25 minute
+
+Pauza intre acte: 10 minute
+Durata fixa a spectacolului: 70 minute
+
+Spectacolul va rula de 3 ori:
+
+Data prezentarii: 06.10.2018
+Numar locuri: 100
+Pana acum:
+	- 14 locuri rezervate (14 adulti si 0 copii)
+
+Data prezentarii: 06.11.2018
+Numar locuri: 100
+Pana acum:
+	- 0 locuri rezervate (0 adulti si 0 copii)
+
+Data prezentarii: 06.12.2018
+Numar locuri: 100
+Pana acum:
+	- 0 locuri rezervate (0 adulti si 0 copii)
+
+
+--------------------------------------------------------
+ANNABELLE
+
+Tipul spectacolului: Teatru interactiv
+Genul spectacolului: Tragedie
+
+Acest spectacol este pentru adulti.
+
+Numar acte: 1 (60 minute)
+Durata fixa a spectacolului: 60 minute
+
+Spectacolul va rula o data:
+
+Data prezentarii: 05.06.2018
+Numar locuri: 50
+Pana acum:
+	- 14 locuri rezervate (14 adulti si 0 copii)
+
+Durata aditionala pentru teatru interactiv: 14 minute
+

@@ -1,0 +1,74 @@
+18
+Emilia Grigore
+45
+nu
+nu
+Marin Alin
+30
+nu
+nu
+Paula Carina
+13
+nu
+nu
+Andreea Voicu
+20
+nu
+nu
+Serban Popovici
+12
+nu
+nu
+Raluca Matei
+10
+nu
+nu
+Marin Pavel
+67
+nu
+nu
+Mihailescu Alexandru
+18
+nu
+nu
+George Darius
+50
+nu
+nu
+Bianca Budescu
+27
+nu
+nu
+Dan Mihai
+37
+nu
+nu
+Marius Teleaga
+43
+nu
+nu
+Alina Dima
+12
+nu
+nu
+Gica Hasdeu
+47
+nu
+nu
+Darius Roua
+45
+nu
+nu
+Mihaela Georgescu
+30
+nu
+nu
+Marinela Popescu
+60
+nu
+nu
+Ana Barcau
+16
+nu
+nu
+

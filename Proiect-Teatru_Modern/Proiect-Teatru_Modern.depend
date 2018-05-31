@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1527743784 source:d:\facultate\poo\tema 3 poo\proiect-teatru_modern\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	"spectacol.h"
+
+1527744246 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\tip.h
+	"tip.cpp"
+
+1527745026 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\tip.cpp
+	<string>
+
+1527730232 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\gen.h
+	<string>
+	"gen.cpp"
+
+1527744626 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\gen.cpp
+
+1527733638 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\prezentare.h
+	"client.h"
+	"prezentare.cpp"
+
+1527744786 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\prezentare.cpp
+
+1527744390 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\spectacol.h
+	"prezentare.h"
+	"tip.h"
+	"gen.h"
+	"client.h"
+	"spectacol.cpp"
+
+1527744390 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\spectacol.cpp
+	<string>
+
+1527733039 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\pofta.h
+	<string>
+	"pofta.cpp"
+
+1527744722 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\pofta.cpp
+	<string>
+
+1527744050 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\exigenta.h
+	"exigenta.cpp"
+
+1527744569 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\exigenta.cpp
+
+1527744033 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\client.h
+	<vector>
+	<string>
+	"pofta.h"
+	"exigenta.h"
+	"client.cpp"
+
+1527743961 d:\facultate\poo\tema 3 poo\proiect-teatru_modern\client.cpp
+	<string>
+

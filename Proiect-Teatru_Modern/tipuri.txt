@@ -1,0 +1,25 @@
+3
+
+teatru
+1
+
+opera
+Anca Sotir
+tenor
+2
+3 5
+10
+
+circ
+3
+5
+1
+1
+maimuta
+3
+0
+1
+pinguin
+2
+0
+0
